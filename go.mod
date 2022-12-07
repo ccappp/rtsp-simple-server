@@ -6,7 +6,6 @@ require (
 	code.cloudfoundry.org/bytefmt v0.0.0-20211005130812-5bb3c17173e5
 	github.com/abema/go-mp4 v0.8.0
 	github.com/aler9/gortsplib v0.0.0-20221127201748-d521a785c428
-	github.com/aler9/writerseeker v0.0.0-20220601075008-6f0e685b9c82
 	github.com/asticode/go-astits v1.10.1-0.20220319093903-4abe66a9b757
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gin-gonic/gin v1.8.1
@@ -15,6 +14,7 @@ require (
 	github.com/grafov/m3u8 v0.11.1
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/notedit/rtmp v0.0.2
+	github.com/orcaman/writerseeker v0.0.0-20200621085525-1d3f536ff85e
 	github.com/pion/rtp v1.7.13
 	github.com/stretchr/testify v1.7.1
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
