@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/aler9/rtsp-simple-server/internal/core"
+	"github.com/bhaney/rtsp-simple-server/internal/core"
 )
 
 func New(configArgs []string) (*core.Core, error) {
