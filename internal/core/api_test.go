@@ -18,7 +18,7 @@ import (
 	"github.com/pion/rtp"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aler9/rtsp-simple-server/internal/rtmp"
+	"github.com/bhaney/rtsp-simple-server/internal/rtmp"
 )
 
 func httpRequest(method string, ur string, in interface{}, out interface{}) error {

@@ -6,8 +6,8 @@ import (
 
 	"github.com/aler9/gortsplib"
 
-	"github.com/aler9/rtsp-simple-server/internal/logger"
-	"github.com/aler9/rtsp-simple-server/internal/rpicamera"
+	"github.com/bhaney/rtsp-simple-server/internal/logger"
+	"github.com/bhaney/rtsp-simple-server/internal/rpicamera"
 )
 
 type rpiCameraSourceParent interface {

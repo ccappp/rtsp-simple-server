@@ -12,8 +12,8 @@ import (
 	"github.com/aler9/gortsplib/pkg/mpeg4audio"
 	"github.com/asticode/go-astits"
 
-	"github.com/aler9/rtsp-simple-server/internal/hls/mpegts"
-	"github.com/aler9/rtsp-simple-server/internal/logger"
+	"github.com/bhaney/rtsp-simple-server/internal/hls/mpegts"
+	"github.com/bhaney/rtsp-simple-server/internal/logger"
 )
 
 func mpegtsPickLeadingTrack(mpegtsTracks []*mpegts.Track) uint16 {

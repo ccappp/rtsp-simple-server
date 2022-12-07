@@ -12,8 +12,8 @@ import (
 	"github.com/aler9/gortsplib"
 	gm3u8 "github.com/grafov/m3u8"
 
-	"github.com/aler9/rtsp-simple-server/internal/hls/m3u8"
-	"github.com/aler9/rtsp-simple-server/internal/logger"
+	"github.com/bhaney/rtsp-simple-server/internal/hls/m3u8"
+	"github.com/bhaney/rtsp-simple-server/internal/logger"
 )
 
 func segmentsLen(segments []*gm3u8.MediaSegment) int {

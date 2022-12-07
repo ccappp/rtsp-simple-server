@@ -12,7 +12,7 @@ import (
 	"github.com/aler9/gortsplib"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aler9/rtsp-simple-server/internal/rtmp"
+	"github.com/bhaney/rtsp-simple-server/internal/rtmp"
 )
 
 func TestMetrics(t *testing.T) {

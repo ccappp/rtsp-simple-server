@@ -6,8 +6,8 @@ import (
 
 	"github.com/aler9/gortsplib"
 
-	"github.com/aler9/rtsp-simple-server/internal/hls"
-	"github.com/aler9/rtsp-simple-server/internal/logger"
+	"github.com/bhaney/rtsp-simple-server/internal/hls"
+	"github.com/bhaney/rtsp-simple-server/internal/logger"
 )
 
 type hlsSourceParent interface {

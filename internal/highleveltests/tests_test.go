@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/aler9/rtsp-simple-server/internal/core"
+	"github.com/bhaney/rtsp-simple-server/internal/core"
 )
 
 var serverCert = []byte(`-----BEGIN CERTIFICATE-----

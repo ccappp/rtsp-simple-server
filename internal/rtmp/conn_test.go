@@ -11,10 +11,10 @@ import (
 	"github.com/notedit/rtmp/format/flv/flvio"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aler9/rtsp-simple-server/internal/rtmp/bytecounter"
-	"github.com/aler9/rtsp-simple-server/internal/rtmp/h264conf"
-	"github.com/aler9/rtsp-simple-server/internal/rtmp/handshake"
-	"github.com/aler9/rtsp-simple-server/internal/rtmp/message"
+	"github.com/bhaney/rtsp-simple-server/internal/rtmp/bytecounter"
+	"github.com/bhaney/rtsp-simple-server/internal/rtmp/h264conf"
+	"github.com/bhaney/rtsp-simple-server/internal/rtmp/handshake"
+	"github.com/bhaney/rtsp-simple-server/internal/rtmp/message"
 )
 
 func TestInitializeClient(t *testing.T) {

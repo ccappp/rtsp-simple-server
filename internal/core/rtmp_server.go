@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/aler9/rtsp-simple-server/internal/conf"
-	"github.com/aler9/rtsp-simple-server/internal/externalcmd"
-	"github.com/aler9/rtsp-simple-server/internal/logger"
+	"github.com/bhaney/rtsp-simple-server/internal/conf"
+	"github.com/bhaney/rtsp-simple-server/internal/externalcmd"
+	"github.com/bhaney/rtsp-simple-server/internal/logger"
 )
 
 type rtmpServerAPIConnsListItem struct {
