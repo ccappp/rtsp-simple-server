@@ -6,6 +6,7 @@ require (
 	code.cloudfoundry.org/bytefmt v0.0.0-20211005130812-5bb3c17173e5
 	github.com/abema/go-mp4 v0.8.0
 	github.com/aler9/gortsplib v0.0.0-20221129144815-8515d627356a
+	github.com/aler9/writerseeker v0.0.0-20220601075008-6f0e685b9c82
 	github.com/asticode/go-astits v1.10.1-0.20220319093903-4abe66a9b757
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gin-gonic/gin v1.8.1
@@ -24,7 +25,6 @@ require (
 require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
-	github.com/aler9/writerseeker v0.0.0-20220601075008-6f0e685b9c82 // indirect
 	github.com/asticode/go-astikit v0.20.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
